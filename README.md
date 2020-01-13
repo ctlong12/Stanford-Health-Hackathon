@@ -28,8 +28,6 @@
 <a target="_blank"><img src="https://raw.githubusercontent.com/ctlong12/Stanford-Health-Hackathon/master/images/why-us.png" border="0" alt="Fuzzy Logic"></a>
 
 <br />
-<br />
-<br />
 
 <a target="_blank"><img src="https://raw.githubusercontent.com/ctlong12/Stanford-Health-Hackathon/master/images/analysis.png" border="0" alt="Fuzzy Logic"></a>
 
