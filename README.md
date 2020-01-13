@@ -4,10 +4,6 @@
 
 <a target="_blank"><img src="https://raw.githubusercontent.com/ctlong12/Stanford-Health-Hackathon/master/images/title-screen.png" border="0" alt="Fuzzy Logic"></a>
 
-<br />
-<br />
-<br />
-
 <a target="_blank"><img src="https://raw.githubusercontent.com/ctlong12/Stanford-Health-Hackathon/master/images/problem.png" border="0" alt="Fuzzy Logic"></a>
 
 <br />
