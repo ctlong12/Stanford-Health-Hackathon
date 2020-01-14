@@ -1,5 +1,6 @@
 # Melli2s: An all-inclusive iOS app for living with Type 2 Diabetes
 ## Stanford University: Health++
+### Offical Project Page: https://devpost.com/software/stanford-health-hackathon#updates
 
 <br />
 <br />
