@@ -1,5 +1,5 @@
 # Melli2s: An all-inclusive iOS app for living with Type 2 Diabetes
-## Health++  - Stanford University
+## Stanford University: Health++
 
 <br />
 <br />
